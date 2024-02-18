@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Sayfada kullandığım Renkler -->
+    <color name="anaRenk">#F4545C</color>
+    <color name="yaziRenk1">#101010</color>
+    <color name="yaziRenk2">#FFFFFF</color>
+    <color name="yaziRenk3">#F7A757</color>
+    <color name="yaziRenk4">#F57071</color>
+    <color name="yaziRenk5">#A4A4A4</color>
+    <color name="butonRenk">#F45058</color>
+    <color name="ozetArkaplan1">#FCE3E2</color>
+    <color name="ozetArkaplan2">#FCE5CC</color>
+
+
+</resources>

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Meyve Sepeti</string>
+    <string name="beslenmeBaslik">Beslenme</string>
+    <string name="meyveYazi">Nar</string>
+    <string name="fiyatYazi">₺308.42</string>
+    <string name="boyutBaslik">Boyut</string>
+    <string name="kabukBaslik">Kabuk</string>
+    <string name="sureBaslik">Zaman</string>
+    <string name="boyutYazi">Orta 30,48 cm</string>
+    <string name="kabukYazi">İnce Kabuk</string>
+    <string name="sureYazi">20 Dk.</string>
+    <string name="meyveOzetBaslik">Meyve Özeti</string>
+    <string name="karbonhidratBaslik">Karbonhidratlar</string>
+    <string name="karbonhidratYuzde">%45</string>
+    <string name="proteinBaslik">Protein</string>
+    <string name="proteinYuzde">%35</string>
+    <string name="yagBaslik">Yağ</string>
+    <string name="yagYuzde">%20</string>
+    <string name="butonYazi">Sipariş Lütfen</string>
+
+</resources>

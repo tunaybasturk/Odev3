@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Fruit Basket</string>
+    <string name="beslenmeBaslik">Nutrition</string>
+    <string name="meyveYazi">Pomegranate</string>
+    <string name="fiyatYazi">$9.99</string>
+    <string name="boyutBaslik">Size</string>
+    <string name="kabukBaslik">Crust</string>
+    <string name="sureBaslik">Time</string>
+    <string name="boyutYazi">Medium 12 in</string>
+    <string name="kabukYazi">Thin Crust</string>
+    <string name="sureYazi">20 Min.</string>
+    <string name="meyveOzetBaslik">Fruit Summary</string>
+    <string name="karbonhidratBaslik">Carbs</string>
+    <string name="karbonhidratYuzde">%45</string>
+    <string name="proteinBaslik">Protein</string>
+    <string name="proteinYuzde">%35</string>
+    <string name="yagBaslik">Fat</string>
+    <string name="yagYuzde">%20</string>
+    <string name="butonYazi">Please Order</string>
+
+</resources>
